@@ -63,7 +63,8 @@ mobile/
 
 ## 📸 Screenshots
 
-> _Add screenshots of your app here for extra polish!_
+![Screen 1](./assets/images/preview-login.jpg)
+![Screen 2](./assets/images/preview-signup.jpg)
 
 ---
 
